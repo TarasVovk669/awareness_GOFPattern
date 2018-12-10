@@ -14,7 +14,7 @@ public abstract class Shape {
         if (target != null) {
             this.x = target.x;
             this.y = target.y;
-            this.color = color;
+            this.color = target.color;
         }
     }
 

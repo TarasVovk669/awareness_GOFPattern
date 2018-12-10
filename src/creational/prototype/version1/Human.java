@@ -14,7 +14,7 @@ public class Human implements Clonable {
 
     @Override
     public Object copy() {
-        return new Human(age, name, new Body(body.getQtyLegs(), body.getQtyHands()));
+        return new Human(age, name, (Body) body.copy());
     }
 
     @Override
