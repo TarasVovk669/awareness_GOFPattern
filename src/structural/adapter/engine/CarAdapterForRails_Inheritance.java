@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.adapter.engine;
 
 public class CarAdapterForRails_Inheritance extends Car implements TrainRails {
     @Override

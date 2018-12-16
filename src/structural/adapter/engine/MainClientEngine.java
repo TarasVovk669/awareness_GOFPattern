@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.adapter.engine;
 
 public class MainClientEngine {
     public static void main(String[] args) {

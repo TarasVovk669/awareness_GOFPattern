@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.adapter.engine;
 
 public class CarAdapterForRails_Composition implements TrainRails {
     private Car car;
