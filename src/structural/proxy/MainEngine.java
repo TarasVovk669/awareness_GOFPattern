@@ -1,8 +1,5 @@
 package structural.proxy;
 
-import structural.facade.engine.File;
-import structural.facade.engine.Server;
-import structural.facade.engine.UploadFacade;
 import structural.proxy.downloader.MemesDownloader;
 import structural.proxy.memes_media_library.MemesLibClass;
 import structural.proxy.proxy.MemesCacheProxy;

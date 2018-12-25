@@ -5,7 +5,6 @@ import structural.proxy.memes_media_library.MemesLib;
 import structural.proxy.memes_media_library.MemesLibClass;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class MemesCacheProxy implements MemesLib {
     private MemesLib memesLib;
